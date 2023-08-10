@@ -2,9 +2,9 @@
 Indian Demography Analysis using Python
 
 ## Table of Contents
-1) [**1. Project Overview**](#Overview)
-2) [**2. Data Processing**](#process)
-3) [**3. Data Analysis with Visualizations**](#analysis)
+[**1. Project Overview**](#Overview)
+[**2. Data Processing**](#process)
+[**3. Data Analysis with Visualizations**](#analysis)
    
      i.Population Distribution among states
    
