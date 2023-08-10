@@ -3,12 +3,11 @@ Indian Demography Analysis using Python
 
 ## Table of Contents
 1) [**1. Project Overview**](#Overview)
-2) [**1. Data Processing**](#process)
-3) Data Analysis with Visualizations and Insights
-     i.
-     ii.
-     iii.
- 
+2) [**2. Data Processing**](#process)
+3) [**3. Data Analysis with Visualizations**](#analysis)
+     i.Population Distribution among states
+     ii.Literacy rate Distribution among state
+     
 
 # 1. Project Overview <a class="anchor" id="Overview"></a>
 
@@ -116,7 +115,7 @@ Dataset got from Indian Census website and is a open to public dataset [Link]!ht
 # 2. Data Processing <a class="anchor" id="process"></a>
 The excel table was loaded checked for null and dataypes
 
-## 2) Data Analysis and Visulaization
+## 2) Data Analysis and Visulaization <a class="anchor" id="analysis"></a>
      # i) What is the population distribution across different states in India?
 ![Alt text](image.png)
   
